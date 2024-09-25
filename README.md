@@ -76,19 +76,19 @@ The script will load the trained model and evaluate its accuracy on the test set
 
 ## Model Comparison
 
-### Centralized Learning
+### Level 1: Centralized Learning
 
 - **Accuracy**: Highest and most stable.
 - **Privacy**: Low, as all data is centralized.
 - **Use Cases**: In-house predictive analytics, centralized healthcare research.
 
-### Federated Learning
+### Level 2: Federated Learning
 
 - **Accuracy**: Variable, lower than centralized.
 - **Privacy**: High, as data remains local.
 - **Use Cases**: Mobile device usage, cross-institutional healthcare studies.
 
-### Distributed Swarm Learning
+### Level 3: Distributed Swarm Learning with swarm intelligence
 
 - **Accuracy**: Lower than centralized but better than federated.
 - **Privacy**: High decentralization, robust against failures.
