@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation and comparison of three machine learning paradigms: Centralized Learning, Federated Learning, and Distributed Swarm Learning. The models are trained and tested on the CIFAR-10 dataset to demonstrate their unique characteristics and performance differences.
+This repository contains the implementation and comparison of three machine learning paradigms: Centralized Learning (Level 1), Federated Learning (Level 2, and Distributed Swarm Learning (Level 3. The models are trained and tested on the CIFAR-10 dataset to demonstrate their unique characteristics and performance differences.
 
 ## Table of Contents
 
